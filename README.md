@@ -19,7 +19,7 @@ And again, like all programming tasks, the internet is your friend, and searchin
 To begin the lab, first clone the source code by running:
 
 ```
-git clone https://github.com/lseper/HTTP-and-API-Lab.git
+git clone https://github.com/lseper/UNL-HTTP-and-API-Lab.git
 ```
 
 Then, create a new branch to push to. Do this by running the following command:
