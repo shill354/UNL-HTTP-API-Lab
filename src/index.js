@@ -1,7 +1,7 @@
 // TODO: Create this function
 async function getPokemon() {
     const pokemon = retrieveInputs();
-    buildCard(pokemon[1]);
+    buildCard(pokemon[1][1]);
 }
 
 /**
